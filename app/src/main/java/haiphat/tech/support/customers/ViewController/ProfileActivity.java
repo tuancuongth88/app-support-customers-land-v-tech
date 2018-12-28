@@ -1,13 +1,13 @@
-package haiphat.tech.support.customers;
+package haiphat.tech.support.customers.ViewController;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class SplashActivity extends AppCompatActivity {
+public class ProfileActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
+//        setContentView(R.layout.activity_profile);
     }
 }
