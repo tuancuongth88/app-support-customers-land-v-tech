@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Support-Customers-Land</string>
+    //base
+    <string name="text_no_internet_connection">Không có kêt nối mang, vui lòng kiểm tra kết  nối mạng và thử lại.</string>
+    <string name="text_cannot_connect_to_server">Không thể kết nối với máy chủ</string>
+
+    <!--dialog-->
+    <string name="text_processing">Đang tải...</string>
+    <string name="alert_title_error">Lỗi</string>
+    <string name="alert_title_success">Thành công</string>
+    <string name="alert_title_confirm">Xác nhận</string>
+    <string name="text_confirm_logout">Bạn có thực sự muốn đăng xuất không?</string>
+    <string name="text_dialog_cancel">Hủy</string>
+    <string name="text_dialog_ok">Đồng ý</string>
+
+    //form Login
+    <string name="titleLogin">Hệ thống chăm sóc khách hàng Hải Phát Land</string>
+    <string name="textLogin">Đăng nhập</string>
+    <string name="textForgotPassword">Quên mật khẩu ?</string>
+    <string name="textCopyRight">Phiên bản hệ thống 1.0 - Bản quyền thuộc về Hải Phát Land</string>
+
 </resources>

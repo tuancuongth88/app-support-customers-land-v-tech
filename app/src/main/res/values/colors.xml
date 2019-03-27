@@ -3,8 +3,11 @@
     ources>
     <color name="colorPrimary">#f48120</color>
     <color name="colorPrimaryDark">#138090</color>
+    <color name="colorWhite">#ffffff</color>
     <color name="colorAccent">#138090</color>
     <color name="textWhite">#fff</color>
     <color name="colorHeader">#f48120</color>
     <color name="colorBackground">#d7d7d7</color>
+    <color name="colorUsername">#e4e4e4</color>
+    <color name="colorButtonLogin">#f58220</color>
 </resources>
